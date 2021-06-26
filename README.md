@@ -4,3 +4,5 @@ A basic amazon price tracker done using web scraping in  node using nightmare an
 - Node.js
 - Nightmare
 - Nodemailer
+## Screenshots
+
