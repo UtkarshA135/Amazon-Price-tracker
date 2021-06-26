@@ -1,0 +1,17 @@
+{
+  "name": "price-tracking-system",
+  "version": "1.0.0",
+  "description": "A price tracker",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Utkarsh",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.5",
+    "dotenv": "^10.0.0",
+    "nightmare": "^3.0.2",
+    "nodemailer": "^6.6.2"
+  }
+}
